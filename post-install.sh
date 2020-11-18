@@ -21,4 +21,4 @@ cd
 rm -rf $HOME/yay
 
 # install packages on aur
-yay -S spotify torsocks ttf-menlo-powerline-git noto-fonts-main
+yay -S spotify torsocks ttf-meslo noto-fonts-main
