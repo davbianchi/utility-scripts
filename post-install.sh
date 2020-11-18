@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 echo "Be sure to have admin permissions, the script runs several sudo ops."
 
 # install reflector, then sort the mirrors

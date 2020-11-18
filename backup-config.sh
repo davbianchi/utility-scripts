@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 # generate backup folder
 cd
 TARNAME="backup-$(whoami)-$(date +"%Y-%m-%d")"
